@@ -1,5 +1,5 @@
- 
 # Binary Search Algorithms
+# From Khan Academy
 
 # Jasen Carroll
 # Sept 25th, 2015
