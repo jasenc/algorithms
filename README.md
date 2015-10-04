@@ -17,6 +17,7 @@ Typically you have to chose one over the other.
 
 1. [Binary Search](binary.py) - Khan Academy
 2. [Asymptotic Notation](asymptotic.md) - Khan Academy
+3. [CS 215 - Lesson 1](lesson1.md) - Udacity
 
 
 ## Author
